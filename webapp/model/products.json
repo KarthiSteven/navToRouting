@@ -1,0 +1,48 @@
+ { "Products" :[
+    {
+    "ProductID": 1,
+    "StoreName":"World Famous Tea Stall",
+    "ProductName": "Tea",
+    "QuantityPerUnit": "10 boxes x 20 bags",
+    "UnitPrice": "18.0000",
+    "UnitsInStock": 39,
+    "City" : "Los Angels"
+   },
+
+    {
+    "ProductID": 2,
+    "ProductName": "Chang",
+    "StoreName":"China's Best",
+    "QuantityPerUnit": "24 - 12 oz bottles",
+    "UnitPrice": "19.0000",
+    "UnitsInStock": 17,
+    "UnitsOnOrder": 40,
+    "City" : "Texas"
+   },
+   
+   {
+    "ProductID": 3,
+    "ProductName": "Aniseed Syrup",
+    "StoreName":"Seed Syrup",
+    "QuantityPerUnit": "12 - 550 ml bottles",
+    "UnitPrice": "10.0000",
+    "UnitsInStock": 0,
+    "City" : "Brimingham"
+   }, {
+    "ProductID": 4,
+    "ProductName": "Chef Anton's Cajun Seasoning",
+    "StoreName":"Seasons",
+    "QuantityPerUnit": "48 - 6 oz jars",
+    "UnitPrice": "22.0000",
+    "UnitsInStock": 53,
+    "City" : "London"
+   }, {
+    "ProductID": 5,
+    "ProductName": "Chef Anton's Gumbo Mix",
+    "StoreName":"Blitz",
+    "QuantityPerUnit": "36 boxes",
+    "UnitPrice": "21.3500",
+    "UnitsInStock": 0,
+    "City" : "California"
+   }]
+ }
